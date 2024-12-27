@@ -1,4 +1,4 @@
-in our digital enterprise course last 4th semester, we conducted a study to explore the impact of technostress on data scientists. This was done by measuring the effect of  information and communication technologies (ICTs) on job performance and job satisfaction. We examined the correlation between technostress factors—such as Usefulness, Conflicts, Insecurity, Overload, and Unreliability—and job satisfaction and performance.
+in our digital enterprise course (led by Prof. Dr. Hasan Koç) last 4th semester, we (Capinig, Kuzmenko, Vinecka & Rejman) conducted a study to explore the impact of technostress on data scientists. This was done by measuring the effect of  information and communication technologies (ICTs) on job performance and job satisfaction. We examined the correlation between technostress factors—such as Usefulness, Conflicts, Insecurity, Overload, and Unreliability—and job satisfaction and performance.
 
 The project involved 35 employees working in the field of AI, Machine Learning, Data
 Science or similar fields. A survey was administered to collect data on how working with ICTs

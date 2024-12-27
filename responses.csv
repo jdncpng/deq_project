@@ -1,0 +1,40 @@
+Timestamp,What is your age?,What is your gender?,"What is your contractual weekly working time? (e.g. 20, 35, 40) ",1. I think that the demands of my work and the functions provided by the ICT I use do not fit sufficiently.,2. I think that I do not gain enough benefits from using the ICT that I am provided with at work for my tasks.,3. I think that most of the ICT I am supplied with at work is not useful enough and I could work without it.,4. I feel that my private life suffers due to ICT enabling work-related problems to reach me everywhere.,5. It is too hard for me to keep my private life and work life separated due to ICT.,6. My work-life balance suffers due to ICT.,7. I feel that my job position is threatened due to ICT.,"8. I fear that I could be replaced at work due to the increasing standardization of work processes, which is enabled by ICT.","Disregard everything else, and select Untrue.",9. I cannot be optimistic about my long-term job security because of the threat of ICT automatization.,10. I fear that I could be replaced by machines.,11. Due to ICT I have too much to do.,12. Due to ICT I have a too large variety of different things to do at work.,"13. I never have any spare time, because my schedule is too tightly organized by ICT.","14. I think that I am too often confronted with unexpected behavior of the ICT I use at work (e.g., breakdowns or long response times).",15. I think that I lose too much time due to technical malfunctions.,16. There is just too much of my time at work wasted coping with the unreliability of ICT.,1. I like doing the things I do at work.,2. I feel a sense of pride in doing my job.,3. My job is enjoyable.,4. I am viewed by my supervisor as an exceptional performer.,5. I am viewed as an exceptional performer in this organization.,6. My colleagues think my work is outstanding.
+5/21/2024 12:06:41,34,Male,40,1,1,1,4,5,5,1,3,Strongly Disagree,3,1,4,2,2,5,5,3,6,6,7,5,5,6
+5/21/2024 12:24:45,24,Female,40,4,2,2,5,1,2,1,3,Untrue,1,1,3,5,2,3,1,1,5,4,3,6,6,6
+5/21/2024 13:59:20,40,Male,40,3,1,1,3,3,3,5,5,Untrue,5,5,2,2,2,2,3,2,6,6,6,6,6,6
+5/23/2024 13:43:13,41,Male,40,2,1,2,3,5,4,4,5,Untrue,3,5,2,4,1,2,5,3,5,6,6,4,4,4
+5/23/2024 13:51:53,38,Male,40,2,2,2,3,3,3,2,3,Untrue,3,3,3,2,1,4,3,3,7,7,7,7,6,6
+5/23/2024 14:14:34,42,Female,40,2,2,2,5,5,5,2,1,Untrue,2,2,6,5,3,2,2,2,6,6,6,6,5,5
+5/24/2024 8:35:21,50,Female,35,7,5,2,2,1,1,1,1,Untrue,4,3,4,6,5,2,5,3,7,6,5,3,3,3
+5/24/2024 12:12:59,36,Male,40,4,5,5,7,7,7,1,1,Untrue,1,1,4,4,1,5,6,7,7,7,7,4,7,7
+5/25/2024 9:34:59,33,Female,40,5,3,1,5,5,5,6,5,Untrue,6,5,5,6,3,4,4,5,4,4,4,6,6,6
+5/27/2024 10:36:33,33,Female,40,2,2,2,4,5,5,2,4,Untrue,2,2,5,4,6,1,3,2,6,6,7,6,6,6
+5/30/2024 11:25:52,34,Male,40,2,2,2,2,2,2,4,4,Untrue,4,3,2,2,2,2,2,2,6,6,6,6,6,6
+5/31/2024 19:03:15,42,Male,32,1,1,1,3,3,3,2,2,Untrue,2,4,3,4,1,5,3,1,7,6,6,4,4,4
+5/31/2024 19:40:21,27,Male,30,1,1,1,5,6,6,1,1,Untrue,1,1,4,4,2,5,5,6,7,7,7,5,5,4
+6/1/2024 14:22:56,33,Female,40,2,3,2,3,3,2,1,1,Untrue,2,2,2,2,2,2,2,2,5,6,5,5,5,5
+6/3/2024 10:08:58,33,Female,40,1,1,1,4,4,1,1,1,Untrue,3,1,1,1,3,1,1,1,6,6,6,5,5,5
+6/3/2024 13:08:19,29,Male,40,1,1,1,1,1,1,1,1,Untrue,2,1,1,1,1,1,1,1,6,5,5,4,4,4
+6/3/2024 23:00:25,28,Female,40,3,1,6,4,4,6,2,1,Strongly Disagree,1,2,2,6,1,1,4,4,6,7,6,5,4,3
+6/4/2024 13:59:34,29,Female,20,1,1,1,1,1,1,1,1,Untrue,6,6,1,1,1,2,2,2,6,5,5,6,6,6
+6/5/2024 11:37:41,31,Male,40,2,2,3,7,6,7,2,3,Untrue,5,3,6,6,6,3,4,4,5,5,3,4,4,6
+6/5/2024 13:22:52,35,Female,"Currently unemployed, but my previous contract was 40h",2,2,1,3,2,2,4,3,Untrue,3,4,4,3,2,5,3,5,6,6,6,6,3,6
+6/5/2024 21:28:20,30,Male,40,2,2,2,3,4,1,1,1,Untrue,2,2,2,2,3,2,2,2,6,6,6,5,5,7
+6/5/2024 22:52:29,33,Male,40,4,2,2,1,1,2,1,1,Untrue,2,3,2,1,2,5,3,3,2,5,1,5,3,3
+6/6/2024 8:23:26,35,Female,40,2,2,2,2,3,4,2,2,Untrue,2,3,2,2,2,2,2,2,6,6,6,4,4,4
+6/6/2024 10:41:09,30,Male,40,4,4,2,2,3,3,2,3,Untrue,4,4,3,3,3,5,4,4,5,4,4,5,4,4
+6/6/2024 23:13:16,31,Male,40,2,2,2,3,5,3,2,2,Untrue,2,2,6,3,6,2,1,1,7,7,7,6,5,6
+6/10/2024 18:44:39,33,Male,40,5,5,2,2,2,2,2,2,Untrue,2,3,2,2,1,4,5,3,6,5,7,5,5,5
+6/11/2024 13:24:06,38,Male,40,3,2,1,5,7,7,1,1,Untrue,1,1,6,6,1,2,2,2,6,6,6,6,6,7
+6/12/2024 14:28:12,33,Male,35,3,5,3,7,7,7,4,3,Strongly Disagree,6,4,6,6,7,7,2,3,6,6,5,4,4,4
+6/13/2024 15:02:33,45,Male,40,1,1,1,2,2,1,1,1,Untrue,1,1,1,1,1,1,1,1,7,7,7,7,7,7
+6/17/2024 19:19:34,25,Female,20,1,1,1,1,3,3,1,2,Untrue,2,3,4,5,3,4,4,3,6,6,6,5,6,5
+6/18/2024 19:10:26,23,Male,40,1,1,3,1,3,1,1,4,Untrue,3,1,1,2,3,3,3,3,7,6,7,5,4,4
+6/18/2024 19:13:03,22,Male,39,3,2,1,4,4,4,2,3,Untrue,3,1,2,3,5,3,4,2,6,5,5,4,3,3
+6/18/2024 19:27:58,24,Male,40,6,2,6,6,7,7,4,7,Untrue,6,6,6,6,6,6,5,6,6,6,6,6,6,6
+6/19/2024 18:15:38,55,Male,40,2,1,1,5,6,2,1,1,Untrue,2,1,4,7,5,5,3,5,6,6,6,2,5,5
+6/19/2024 20:03:05,33,Male,40,1,1,1,1,1,1,1,1,Untrue,1,1,1,1,1,1,1,1,7,7,7,7,7,7
+6/19/2024 23:18:02,22,Male,39,4,3,3,4,3,3,3,3,Untrue,2,3,2,2,2,2,2,3,6,7,6,4,4,4
+6/19/2024 23:18:28,23,Male,39,5,5,6,3,2,5,4,6,Untrue,6,1,4,4,4,5,7,7,7,7,7,5,5,5
+6/19/2024 23:23:04,22,Male,40,7,5,3,5,4,4,3,1,Untrue,1,1,1,1,1,1,1,1,7,7,7,7,7,7
+6/20/2024 9:50:17,38,Male,40,3,2,1,3,3,3,4,1,"Strongly Disagree, Untrue",1,1,4,4,2,1,2,1,5,5,5,5,5,5
